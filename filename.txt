@@ -1,0 +1,29 @@
+adamplauth
+{Undefined function or variable 'adamplauth'.
+} 
+%adamPluth
+a=4
+
+a =
+
+     4
+
+a
+
+a =
+
+     4
+
+b=6
+
+b =
+
+     6
+
+c=a+b
+
+c =
+
+    10
+
+diary off

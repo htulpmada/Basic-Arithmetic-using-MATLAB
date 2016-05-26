@@ -1,0 +1,72 @@
+a=4
+
+a =
+
+     4
+
+b=6
+
+b =
+
+     6
+
+c=a+b
+
+c =
+
+    10
+
+save c:hw0.var
+diary off
+load c:hw0.var
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file c:hw0.var must
+be the same as previous lines.
+} 
+a=4
+
+a =
+
+     4
+
+b=6
+
+b =
+
+     6
+
+c
+
+c =
+
+    10
+
+save hw0var
+diary off
+load c:hw0var
+a
+
+a =
+
+     4
+
+b
+
+b =
+
+     6
+
+c
+
+c =
+
+    10
+
+d=a+b+c
+
+d =
+
+    20
+
+save c:hw0var
+diary off
